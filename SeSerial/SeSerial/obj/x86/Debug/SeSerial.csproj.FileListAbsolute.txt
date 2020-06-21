@@ -1,0 +1,15 @@
+C:\Users\Thiago Macedo\AppData\Local\Temporary Projects\SeSerial\bin\Debug\SeSerial.exe
+C:\Users\Thiago Macedo\AppData\Local\Temporary Projects\SeSerial\bin\Debug\SeSerial.pdb
+C:\Users\Thiago Macedo\AppData\Local\Temporary Projects\SeSerial\obj\x86\Debug\SeSerial.Properties.Resources.resources
+C:\Users\Thiago Macedo\AppData\Local\Temporary Projects\SeSerial\obj\x86\Debug\SeSerial.csproj.GenerateResource.Cache
+C:\Users\Thiago Macedo\AppData\Local\Temporary Projects\SeSerial\obj\x86\Debug\SeSerial.exe
+C:\Users\Thiago Macedo\AppData\Local\Temporary Projects\SeSerial\obj\x86\Debug\SeSerial.pdb
+C:\Users\Thiago Macedo\AppData\Local\Temporary Projects\SeSerial\obj\x86\Debug\SeSerial.Form1.resources
+C:\Users\Thiago Macedo\Desktop\SeSerial\SeSerial\bin\Debug\SeSerial.exe
+C:\Users\Thiago Macedo\Desktop\SeSerial\SeSerial\bin\Debug\SeSerial.pdb
+C:\Users\Thiago Macedo\Desktop\SeSerial\SeSerial\obj\x86\Debug\SeSerial.csprojAssemblyReference.cache
+C:\Users\Thiago Macedo\Desktop\SeSerial\SeSerial\obj\x86\Debug\SeSerial.Form1.resources
+C:\Users\Thiago Macedo\Desktop\SeSerial\SeSerial\obj\x86\Debug\SeSerial.Properties.Resources.resources
+C:\Users\Thiago Macedo\Desktop\SeSerial\SeSerial\obj\x86\Debug\SeSerial.csproj.GenerateResource.cache
+C:\Users\Thiago Macedo\Desktop\SeSerial\SeSerial\obj\x86\Debug\SeSerial.exe
+C:\Users\Thiago Macedo\Desktop\SeSerial\SeSerial\obj\x86\Debug\SeSerial.pdb
